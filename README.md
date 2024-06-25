@@ -3,13 +3,17 @@
    <br>
    <br>
 </p>
-<h1>Shopping List</h1>
+<h1>Music Verse</h1>
+<b>A mobile phone application that allows you to listen to music files stored in the phone's internal or external memory. </b>
+
 ## Implementation
-      Bullet Points:
-      * Created a high-performing Shopping List mobile application.
-      * Implemented the MVVM skeleton architecture with the Kodien framework to ensure robust and scalablity.
-      * Utilized the Room database and integrated it seamlessly with Kotlin coroutine
-      * Resulting in efficient storage and management of grocery items.
+This app is made up of:
+   * Single Activity
+   * Services
+   * MediaPlayer
+   * Multi-Threading
+   * Notification
+
 <!-- ## Usage
 <b>Disclaimer :</b>
 * This app is not published on Playstore, you have to download this from
