@@ -9,11 +9,9 @@
 ## Implementation
 This app is made up of:
    * Created a high-performing Shopping List mobile application.
-   * Services
-   * MediaPlayer
-   * Multi-Threading
-   * Notification
-
+   * Implemented the MVVM skeleton architecture and utilized the Kodien framework to ensure a robust and scalable solution.
+   * Demonstrated expertise in utilizing the Room database and integrated it seamlessly with Kotlin coroutine
+   * resulting in efficient storage and management of grocery items.
 
 <!-- ## Usage
 <b>Disclaimer :</b>
