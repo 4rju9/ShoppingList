@@ -7,7 +7,7 @@
 <b>A high-performing Shopping List app using MVVM, Kodien, Room database, and Kotlin coroutines for efficient item storage and management. </b>
 
 ## Implementation
-This app is made up of:
+Bullet Points:
    * Created a high-performing Shopping List mobile application.
    * Implemented the MVVM skeleton architecture and utilized the Kodien framework to ensure a robust and scalable solution.
    * Demonstrated expertise in utilizing the Room database and integrated it seamlessly with Kotlin coroutine
