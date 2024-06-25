@@ -4,15 +4,16 @@
    <br>
 </p>
 <h1>Music Verse</h1>
-<b>A mobile phone application that allows you to listen to music files stored in the phone's internal or external memory. </b>
+<b>A high-performing Shopping List app using MVVM, Kodien, Room database, and Kotlin coroutines for efficient item storage and management. </b>
 
 ## Implementation
 This app is made up of:
-   * Single Activity
+   * Created a high-performing Shopping List mobile application.
    * Services
    * MediaPlayer
    * Multi-Threading
    * Notification
+
 
 <!-- ## Usage
 <b>Disclaimer :</b>
