@@ -5,6 +5,7 @@
 </p>
 <h1>Shopping List</h1>
 ## Implementation
+Bullet Points:
    * Created a high-performing Shopping List mobile application.
    * Implemented the MVVM skeleton architecture with the Kodien framework to ensure robust and scalablity.
    * Utilized the Room database and integrated it seamlessly with Kotlin coroutine
