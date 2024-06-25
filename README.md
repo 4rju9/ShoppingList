@@ -3,7 +3,7 @@
    <br>
    <br>
 </p>
-<h1>Music Verse</h1>
+<h1>Shopping List</h1>
 <b>A high-performing Shopping List app using MVVM, Kodien, Room database, and Kotlin coroutines for efficient item storage and management. </b>
 
 ## Implementation
